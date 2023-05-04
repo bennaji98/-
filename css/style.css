@@ -219,6 +219,7 @@ main {
     background-color: #f6f7f8;
     min-height: 170px;
     border-radius: 10px;
+    transition: background-color 0.5s;
 }  
 
 
@@ -265,6 +266,7 @@ main {
     background-color: #008dd1;
     height: 16px;
     width: 16px;
+    transition: 1s;
 }
 
 .javab {
@@ -275,6 +277,7 @@ main {
 .rotate {
 
     transform: rotate(180deg);
+    background-color: rgb(204, 68, 136) !important;
 }
 
                                                     /* ---------- hamrahan --------- */
