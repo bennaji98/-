@@ -85,6 +85,8 @@ ul {
     color: rgba(59, 153, 219, 1);
 }
 
+
+
                                     /* ----------  HEADER ----------- */
 
 
@@ -268,6 +270,11 @@ main {
 .javab {
 
     display: none;
+}
+
+.rotate {
+
+    transform: rotate(180deg);
 }
 
                                                     /* ---------- hamrahan --------- */

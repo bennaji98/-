@@ -5,7 +5,9 @@ $(document).ready(function () {
     });
 
     $(".soal-1").click(function () {
+        
         $(".javab-1").slideToggle(600);
+        $('.svg').toggleClass('rotate');
     })
 
     $(".soal-2").click(function () {
@@ -19,6 +21,7 @@ $(document).ready(function () {
     $(".soal-4").click(function () {
         $(".javab-4").slideToggle(600);
     })
+
 
     
     
